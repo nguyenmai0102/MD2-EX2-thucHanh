@@ -3,6 +3,7 @@ package practice1;
 import java.util.Scanner;
 
 public class practice2 {
+    // ung dung cho vay hang thang
     public static void main(String[] args) {
         double money = 1.0;
         int month = 1;
